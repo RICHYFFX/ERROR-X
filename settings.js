@@ -3,33 +3,33 @@
 //Instagram: 
 //Telegram: 
 //GitHub: @DGXeon
-//WhatsApp: +2349125042727
+//WhatsApp: +2349049682333
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@emmanuelhenshaw-e9r?si=-BUpPC455t3J2Qcb
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2349125042727"
-global.ownername = "EMMY_HENZ-TECH👑"
-global.ytname = "YT: EMMY-HENZ"
-global.socialm = "GitHub: EMMY_HENZ-TECH"
-global.location = "Nigeria,Cross River,Calabar"
+global.ownernomer = "2349049682333"
+global.ownername = "RICHYFFX-TECH👑"
+global.ytname = "YT: RICHYFFX"
+global.socialm = "GitHub: RICHYFFX-TECH"
+global.location = "Nigeria,Oyo state,Ibadon"
 
-global.ownernumber = '2349125042727'  //creator number
-global.ownername = 'EMMY_HENZ-TECH👑' //owner name
+global.ownernumber = '2349049682333'  //creator number
+global.ownername = 'RICHYFFX-TECH👑' //owner name
 global.botname = 'ERROR-X☠💀☠' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'EMMY HENZ👑\n\nContact: +2349125042727'
+global.author = 'RICHYFFX👑\n\nContact: +2349049682333'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "EMMY HENZ Inc."
+global.wm = "RICHYFFX Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C'
+global.link = 'https://chat.whatsapp.com/H56689qc4e2Dzp2k79AAEu
 
 //custom prefix
 global.prefa = ['.']
